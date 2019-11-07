@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
+  - name: blackburn-user1
     aws_groups: "sacramento, fresno, indio"
-  - name: user2
+  - name: blackburn-user2
     aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
+  - name: blackburn-user3
     aws_groups: "palmsprings, indio, sandiego"
